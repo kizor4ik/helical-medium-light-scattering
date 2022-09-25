@@ -1,0 +1,219 @@
+((2*k3bs + kp^2)*(52*k3bs^2 - 8*ep*k0s*k3bs^2 + 78*k3bs*kp^2 - 
+    8*ep*k0s*k3bs*kp^2 + 4*k3bs^2*kp^2 + 26*kp^4 - ep*k0s*kp^4 + 
+    5*k3bs*kp^4 + kp^6 + 2*b*k0s^2*(4*bc*k3bs - 2*ac*kp^2 + bc*kp^2) + 
+    2*a*k0s^2*(-2*bc*kp^2 + ac*(4*k3bs + kp^2)))*qn^6)/(4*k3bs^3) - 
+ (2*(k3bs + kp^2)*(2*k3bs + kp^2)^2*qn^7)/k3bs^3 + 
+ ((k3bs + kp^2)*(2*k3bs + kp^2)^2*qn^8)/(4*k3bs^3) - 
+ ((2*k3bs + kp^2)*qn^5*(44*k3bs^2 - 24*ep*k0s*k3bs^2 + 66*k3bs*kp^2 - 
+    24*ep*k0s*k3bs*kp^2 + 12*k3bs^2*kp^2 + 22*kp^4 - 3*ep*k0s*kp^4 + 
+    15*k3bs*kp^4 + 3*kp^6 + 2*a*k0s^2*(10*ac*k3bs + 3*ac*kp^2 - 6*bc*kp^2) + 
+    2*b*k0s^2*(14*bc*k3bs - 6*ac*kp^2 + 3*bc*kp^2) + 4*k0s*k3bs^2*y + 
+    4*k0s*k3bs*kp^2*y))/(2*k3bs^3) + 
+ (qn^4*(8*A*ac*bc*k0s^3*k3bs^2 + 164*k3bs^3 - 232*ep*k0s*k3bs^3 - 
+    4*A*Ac*k0s^2*k3bs^3 + 24*ep^2*k0s^2*k3bs^3 - 4*A*ac^2*k0s^3*k3bs*kp^2 - 
+    4*A*bc^2*k0s^3*k3bs*kp^2 + 328*k3bs^2*kp^2 - 348*ep*k0s*k3bs^2*kp^2 - 
+    4*A*Ac*k0s^2*k3bs^2*kp^2 + 24*ep^2*k0s^2*k3bs^2*kp^2 + 116*k3bs^3*kp^2 - 
+    24*ep*k0s*k3bs^3*kp^2 + 2*A*ac*bc*k0s^3*kp^4 + 205*k3bs*kp^4 - 
+    142*ep*k0s*k3bs*kp^4 + 5*ep^2*k0s^2*k3bs*kp^4 + 200*k3bs^2*kp^4 - 
+    28*ep*k0s*k3bs^2*kp^4 + 5*k3bs^3*kp^4 + 41*kp^6 - 13*ep*k0s*kp^6 + 
+    97*k3bs*kp^6 - 7*ep*k0s*k3bs*kp^6 + 7*k3bs^2*kp^6 + 13*kp^8 + 
+    2*k3bs*kp^8 + 4*a^2*k0s^3*(4*ac^2*k0s*k3bs - 2*ac*bc*k0s*kp^2 - 
+      Ac*k3bs*kp^2) + 4*b^2*k0s^3*(4*bc^2*k0s*k3bs - 2*ac*bc*k0s*kp^2 - 
+      Ac*k3bs*kp^2) + 80*k0s*k3bs^3*y + 120*k0s*k3bs^2*kp^2*y + 
+    40*k0s*k3bs*kp^4*y - 8*k0s^2*k3bs^3*y^2 - 8*k0s^2*k3bs^2*kp^2*y^2 - 
+    k0s^2*k3bs*kp^4*y^2 + b*k0s^2*(-4*ac*kp^2*(kp^2*(14 - ep*k0s + kp^2) + 
+        k3bs*(28 - 4*ep*k0s + 3*kp^2)) + 
+      bc*(kp^4*(26 - 2*ep*k0s + kp^2 - 2*k0s*y) + 4*k3bs*kp^2*
+         (52 - 6*ep*k0s + 3*kp^2 - 2*k0s*y) - 8*k3bs^2*(-39 + 6*ep*k0s - 
+          3*kp^2 + 2*k0s*y))) + a*k0s^2*(-8*ac^2*b*k0s^2*kp^2 + 
+      2*Ac*b*k0s*(4*k3bs^2 + kp^4) - 4*bc*kp^2*(2*b*bc*k0s^2 + 
+        kp^2*(14 - ep*k0s + kp^2) + k3bs*(28 - 4*ep*k0s + 3*kp^2)) + 
+      ac*(16*b*bc*k0s^2*(3*k3bs + kp^2) - 8*k3bs^2*(-19 + 6*ep*k0s - 3*kp^2 - 
+          2*k0s*y) + kp^4*(26 - 2*ep*k0s + kp^2 + 2*k0s*y) + 
+        4*k3bs*kp^2*(32 - 6*ep*k0s + 3*kp^2 + 2*k0s*y)))))/(4*k3bs^3) + 
+ (qn^3*(2*a^2*k0s^3*(-8*ac^2*k0s*k3bs + 6*ac*bc*k0s*kp^2 + 3*Ac*k3bs*kp^2) + 
+    2*b^2*k0s^3*(-24*bc^2*k0s*k3bs + 10*ac*bc*k0s*kp^2 + 5*Ac*k3bs*kp^2) + 
+    b*k0s^2*(-(bc*kp^4*(12 - 2*ep*k0s + kp^2 - 2*k0s*y)) + 
+      8*ac*k3bs*kp^2*(8 - 4*ep*k0s + 3*kp^2 + k0s*y) + 
+      2*ac*kp^4*(16 - 4*ep*k0s + 4*kp^2 + k0s*y) + 
+      2*bc*k3bs*kp^2*(-68 + 26*ep*k0s - 13*kp^2 + 2*k0s*y) + 
+      8*bc*k3bs^2*(-28 + 14*ep*k0s - 7*kp^2 + 2*k0s*y)) + 
+    2*(kp^6*(-5 + 3*ep*k0s - 3*kp^2) + A*k0s^2*(3*ac^2*k0s*k3bs*kp^2 - 
+        2*ac*bc*k0s*(4*k3bs^2 + kp^4) + k3bs*(5*bc^2*k0s*kp^2 + 
+          4*Ac*k3bs*(k3bs + kp^2))) - k3bs^3*(20 + 24*ep^2*k0s^2 + 5*kp^4 + 
+        40*k0s*y - 8*k0s^2*y^2 + 4*kp^2*(9 + k0s*y) - 
+        8*ep*k0s*(9 + 3*kp^2 + k0s*y)) - k3bs^2*kp^2*(40 + 24*ep^2*k0s^2 + 
+        7*kp^4 + 60*k0s*y - 8*k0s^2*y^2 + 6*kp^2*(10 + k0s*y) - 
+        4*ep*k0s*(27 + 7*kp^2 + 2*k0s*y)) + 
+      k3bs*kp^4*(-25 - 5*ep^2*k0s^2 - 2*kp^4 - 20*k0s*y + k0s^2*y^2 - 
+        kp^2*(27 + 2*k0s*y) + ep*k0s*(42 + 7*kp^2 + 2*k0s*y))) + 
+    a*k0s^2*(-16*Ac*b*k0s*k3bs^2 + 12*ac^2*b*k0s^2*kp^2 + 
+      20*b*bc^2*k0s^2*kp^2 + 64*bc*k3bs*kp^2 - 32*bc*ep*k0s*k3bs*kp^2 + 
+      32*bc*kp^4 - 4*Ac*b*k0s*kp^4 - 8*bc*ep*k0s*kp^4 + 24*bc*k3bs*kp^4 + 
+      8*bc*kp^6 + 8*bc*k0s*k3bs*kp^2*y + 2*bc*k0s*kp^4*y - 
+      ac*(32*b*bc*k0s^2*(3*k3bs + kp^2) + 3*kp^4*(4 - 2*ep*k0s + kp^2 + 
+          2*k0s*y) + 8*k3bs^2*(8 - 10*ep*k0s + 5*kp^2 + 6*k0s*y) + 
+        2*k3bs*kp^2*(28 - 22*ep*k0s + 11*kp^2 + 14*k0s*y)))))/(2*k3bs^3) + 
+ (qn^2*(48*A*ac*bc*k0s^3*k3bs^2 - 16*A*ac*bc*ep*k0s^4*k3bs^2 + 16*k3bs^3 - 
+    200*ep*k0s*k3bs^3 - 24*A*Ac*k0s^2*k3bs^3 + 152*ep^2*k0s^2*k3bs^3 + 
+    8*A*Ac*ep*k0s^3*k3bs^3 - 16*ep^3*k0s^3*k3bs^3 - 
+    12*A*ac^2*k0s^3*k3bs*kp^2 - 36*A*bc^2*k0s^3*k3bs*kp^2 + 
+    4*A*ac^2*ep*k0s^4*k3bs*kp^2 + 4*A*bc^2*ep*k0s^4*k3bs*kp^2 + 
+    32*k3bs^2*kp^2 - 300*ep*k0s*k3bs^2*kp^2 - 24*A*Ac*k0s^2*k3bs^2*kp^2 + 
+    152*ep^2*k0s^2*k3bs^2*kp^2 + 8*A*ac*bc*k0s^3*k3bs^2*kp^2 + 
+    4*A*Ac*ep*k0s^3*k3bs^2*kp^2 - 8*ep^3*k0s^3*k3bs^2*kp^2 + 
+    100*k3bs^3*kp^2 - 152*ep*k0s*k3bs^3*kp^2 - 4*A*Ac*k0s^2*k3bs^3*kp^2 + 
+    24*ep^2*k0s^2*k3bs^3*kp^2 + 10*A*ac*bc*k0s^3*kp^4 + 20*k3bs*kp^4 - 
+    108*ep*k0s*k3bs*kp^4 + 32*ep^2*k0s^2*k3bs*kp^4 - 
+    4*A*ac^2*k0s^3*k3bs*kp^4 - 2*A*ac*bc*k0s^3*k3bs*kp^4 - 
+    4*A*bc^2*k0s^3*k3bs*kp^4 + 158*k3bs^2*kp^4 - 180*ep*k0s*k3bs^2*kp^4 - 
+    4*A*Ac*k0s^2*k3bs^2*kp^4 + 14*ep^2*k0s^2*k3bs^2*kp^4 + 34*k3bs^3*kp^4 - 
+    10*ep*k0s*k3bs^3*kp^4 + 4*kp^6 - 4*ep*k0s*kp^6 + 62*k3bs*kp^6 - 
+    46*ep*k0s*k3bs*kp^6 + 48*k3bs^2*kp^6 - 7*ep*k0s*k3bs^2*kp^6 + 
+    k3bs^3*kp^6 + 4*kp^8 + 14*k3bs*kp^8 + k3bs^2*kp^8 + 160*k0s*k3bs^3*y - 
+    96*ep*k0s^2*k3bs^3*y - 4*A*ac^2*k0s^4*k3bs*kp^2*y + 
+    4*A*bc^2*k0s^4*k3bs*kp^2*y + 240*k0s*k3bs^2*kp^2*y - 
+    96*ep*k0s^2*k3bs^2*kp^2*y + 48*k0s*k3bs^3*kp^2*y + 80*k0s*k3bs*kp^4*y - 
+    24*ep*k0s^2*k3bs*kp^4*y + 72*k0s*k3bs^2*kp^4*y + 24*k0s*k3bs*kp^6*y - 
+    40*k0s^2*k3bs^3*y^2 + 16*ep*k0s^3*k3bs^3*y^2 - 40*k0s^2*k3bs^2*kp^2*y^2 + 
+    8*ep*k0s^3*k3bs^2*kp^2*y^2 - 8*k0s^2*k3bs^3*kp^2*y^2 - 
+    4*k0s^2*k3bs*kp^4*y^2 - 6*k0s^2*k3bs^2*kp^4*y^2 - 
+    4*b^2*k0s^3*(ac*bc*k0s*kp^2*(16 - 2*ep*k0s + kp^2 - 2*k0s*y) + 
+      Ac*k3bs*kp^2*(9 - ep*k0s + kp^2 - k0s*y) + 4*bc^2*k0s*k3bs*
+       (-13 + 2*ep*k0s - kp^2 + 2*k0s*y)) + 
+    4*a^2*k0s^3*(-(Ac*kp^2*(2*b*bc*k0s^2 + k3bs*(3 - ep*k0s + kp^2 + 
+           k0s*y))) + 4*ac^2*(2*b*bc*k0s^3 + k0s*k3bs*(1 - 2*ep*k0s + kp^2 + 
+          2*k0s*y)) + ac*k0s*(4*Ac*b*k0s*k3bs - 
+        bc*kp^2*(4 - 2*ep*k0s + kp^2 + 2*k0s*y))) + 
+    b*k0s^2*(-4*A*bc*k0s^2*(-4*ac*bc*k0s*k3bs + 2*ac^2*k0s*kp^2 + 
+        Ac*k3bs*(2*k3bs + kp^2)) - 4*ac*kp^2*
+       (kp^2*(9 - 5*ep*k0s + 5*kp^2 + 3*k0s*y) + 
+        k3bs*(18 + 2*ep^2*k0s^2 + 16*kp^2 + kp^4 - ep*k0s*(22 + 3*kp^2) + 
+          12*k0s*y - 2*k0s^2*y^2)) + 
+      bc*(kp^4*(8 - 2*ep*k0s + kp^2 - 2*k0s*y) + 2*k3bs*kp^2*
+         (98 + 6*ep^2*k0s^2 + kp^4 + 14*k0s*y - 2*k0s^2*y^2 + 
+          kp^2*(45 - 2*k0s*y) + 2*ep*k0s*(-45 - 3*kp^2 + 2*k0s*y)) + 
+        2*k3bs^2*(180 + 24*ep^2*k0s^2 + 5*kp^4 + 8*k0s*y - 8*k0s^2*y^2 + 
+          kp^2*(100 - 8*k0s*y) + 8*ep*k0s*(-25 - 3*kp^2 + 2*k0s*y)))) + 
+    a*k0s^2*(2*Ac*b*k0s*(8*b*bc*k0s^2*k3bs + 5*kp^4 - k3bs*kp^4 + 
+        4*k3bs^2*(6 - 2*ep*k0s + kp^2)) + 4*ac^2*k0s^2*
+       (4*A*bc*k0s*k3bs - b*kp^2*(4 - 2*ep*k0s + kp^2 + 2*k0s*y)) - 
+      4*bc*kp^2*(b*bc*k0s^2*(16 - 2*ep*k0s + kp^2 - 2*k0s*y) + 
+        kp^2*(9 - 5*ep*k0s + 5*kp^2 + 3*k0s*y) + 
+        k3bs*(18 + 2*ep^2*k0s^2 + 16*kp^2 + kp^4 - ep*k0s*(22 + 3*kp^2) + 
+          12*k0s*y - 2*k0s^2*y^2)) + ac*(-8*A*bc^2*k0s^3*kp^2 + 8*kp^4 - 
+        26*ep*k0s*kp^4 + 13*kp^6 + 8*b^2*k0s^3*(4*bc^2*k0s - Ac*kp^2) - 
+        16*b*bc*k0s^2*(3*k3bs*(-6 + 2*ep*k0s - kp^2) - 
+          kp^2*(7 - ep*k0s + kp^2)) + 26*k0s*kp^4*y + 
+        2*k3bs^2*(20 - 4*A*Ac*k0s^2 + 24*ep^2*k0s^2 + 52*kp^2 + 5*kp^4 + 
+          88*k0s*y + 8*k0s*kp^2*y - 8*k0s^2*y^2 - 
+          8*ep*k0s*(13 + 3*kp^2 + 2*k0s*y)) + 2*k3bs*kp^2*
+         (18 - 2*A*Ac*k0s^2 + 6*ep^2*k0s^2 + 33*kp^2 + kp^4 + 58*k0s*y + 
+          2*k0s*kp^2*y - 2*k0s^2*y^2 - 2*ep*k0s*(33 + 3*kp^2 + 2*k0s*y))))))/
+  (4*k3bs^3) + (qn*(-16*A*ac*bc*k0s^3*k3bs^2 + 16*A*ac*bc*ep*k0s^4*k3bs^2 + 
+    40*ep*k0s*k3bs^3 + 8*A*Ac*k0s^2*k3bs^3 - 56*ep^2*k0s^2*k3bs^3 - 
+    8*A*Ac*ep*k0s^3*k3bs^3 + 16*ep^3*k0s^3*k3bs^3 + 
+    2*A*ac^2*k0s^3*k3bs*kp^2 + 14*A*bc^2*k0s^3*k3bs*kp^2 - 
+    2*A*ac^2*ep*k0s^4*k3bs*kp^2 - 6*A*bc^2*ep*k0s^4*k3bs*kp^2 + 
+    60*ep*k0s*k3bs^2*kp^2 + 8*A*Ac*k0s^2*k3bs^2*kp^2 - 
+    56*ep^2*k0s^2*k3bs^2*kp^2 - 8*A*ac*bc*k0s^3*k3bs^2*kp^2 - 
+    4*A*Ac*ep*k0s^3*k3bs^2*kp^2 + 8*ep^3*k0s^3*k3bs^2*kp^2 - 20*k3bs^3*kp^2 + 
+    56*ep*k0s*k3bs^3*kp^2 + 4*A*Ac*k0s^2*k3bs^3*kp^2 - 
+    24*ep^2*k0s^2*k3bs^3*kp^2 - 2*A*ac*bc*k0s^3*kp^4 + 20*ep*k0s*k3bs*kp^4 - 
+    12*ep^2*k0s^2*k3bs*kp^4 + 2*A*ac^2*k0s^3*k3bs*kp^4 + 
+    2*A*ac*bc*k0s^3*k3bs*kp^4 + 6*A*bc^2*k0s^3*k3bs*kp^4 - 30*k3bs^2*kp^4 + 
+    68*ep*k0s*k3bs^2*kp^4 + 4*A*Ac*k0s^2*k3bs^2*kp^4 - 
+    14*ep^2*k0s^2*k3bs^2*kp^4 - 14*k3bs^3*kp^4 + 10*ep*k0s*k3bs^3*kp^4 - 
+    10*k3bs*kp^6 + 18*ep*k0s*k3bs*kp^6 - 20*k3bs^2*kp^6 + 
+    7*ep*k0s*k3bs^2*kp^6 - k3bs^3*kp^6 - 6*k3bs*kp^8 - k3bs^2*kp^8 - 
+    40*k0s*k3bs^3*y + 48*ep*k0s^2*k3bs^3*y - 8*ep^2*k0s^3*k3bs^3*y + 
+    2*A*ac^2*k0s^4*k3bs*kp^2*y - 6*A*bc^2*k0s^4*k3bs*kp^2*y - 
+    60*k0s*k3bs^2*kp^2*y + 48*ep*k0s^2*k3bs^2*kp^2*y - 
+    4*ep^2*k0s^3*k3bs^2*kp^2*y - 24*k0s*k3bs^3*kp^2*y + 
+    8*ep*k0s^2*k3bs^3*kp^2*y - 20*k0s*k3bs*kp^4*y + 12*ep*k0s^2*k3bs*kp^4*y - 
+    36*k0s*k3bs^2*kp^4*y + 4*ep*k0s^2*k3bs^2*kp^4*y - 12*k0s*k3bs*kp^6*y + 
+    8*k0s^2*k3bs^3*y^2 - 16*ep*k0s^3*k3bs^3*y^2 + 8*k0s^2*k3bs^2*kp^2*y^2 - 
+    8*ep*k0s^3*k3bs^2*kp^2*y^2 + 8*k0s^2*k3bs^3*kp^2*y^2 + 
+    6*k0s^2*k3bs^2*kp^4*y^2 + 8*k0s^3*k3bs^3*y^3 + 4*k0s^3*k3bs^2*kp^2*y^3 + 
+    2*b^2*k0s^3*(Ac*k3bs*kp^2*(7 - 3*ep*k0s + 3*kp^2 - 3*k0s*y) + 
+      ac*bc*k0s*kp^2*(8 - 2*ep*k0s + kp^2 - 2*k0s*y) + 
+      12*bc^2*k0s*k3bs*(-4 + 2*ep*k0s - kp^2 + 2*k0s*y)) + 
+    2*a^2*k0s^3*(4*ac^2*k0s*k3bs*(2*ep*k0s - kp^2 - 2*k0s*y) + 
+      Ac*kp^2*(2*b*bc*k0s^2 + k3bs*(1 - ep*k0s + kp^2 + k0s*y)) + 
+      ac*k0s*(-8*Ac*b*k0s*k3bs + 3*bc*kp^2*(-2*ep*k0s + kp^2 + 2*k0s*y))) + 
+    b*k0s^2*(4*A*bc*k0s^2*(-4*ac*bc*k0s*k3bs + ac^2*k0s*kp^2 + 
+        Ac*k3bs*(2*k3bs + kp^2)) + 2*ac*kp^2*
+       (2*kp^2*(1 - ep*k0s + kp^2 + k0s*y) + k3bs*(4 + 4*ep^2*k0s^2 + 
+          2*kp^4 - 6*ep*k0s*(2 + kp^2) + 10*k0s*y - 4*k0s^2*y^2 + 
+          kp^2*(8 + k0s*y))) - bc*k3bs*
+       (kp^2*(40 + 12*ep^2*k0s^2 + 36*kp^2 + kp^4 - 12*ep*k0s*(6 + kp^2) + 
+          24*k0s*y - 12*k0s^2*y^2) + 2*k3bs*(40 + 28*ep^2*k0s^2 + 5*kp^4 + 
+          16*k0s*y - 20*k0s^2*y^2 + kp^2*(40 - 4*k0s*y) + 
+          4*ep*k0s*(-20 - 7*kp^2 + 2*k0s*y)))) - 
+    a*k0s^2*(2*Ac*b*k0s*(8*b*bc*k0s^2*k3bs + kp^4 - k3bs*kp^4 + 
+        k3bs^2*(8 - 8*ep*k0s + 4*kp^2)) + 2*ac^2*k0s^2*
+       (8*A*bc*k0s*k3bs - 3*b*kp^2*(-2*ep*k0s + kp^2 + 2*k0s*y)) - 
+      2*bc*kp^2*(b*bc*k0s^2*(8 - 2*ep*k0s + kp^2 - 2*k0s*y) + 
+        2*kp^2*(1 - ep*k0s + kp^2 + k0s*y) + k3bs*(4 + 4*ep^2*k0s^2 + 
+          2*kp^4 - 6*ep*k0s*(2 + kp^2) + 10*k0s*y - 4*k0s^2*y^2 + 
+          kp^2*(8 + k0s*y))) + ac*(-8*A*Ac*k0s^2*k3bs^2 - 
+        12*A*bc^2*k0s^3*kp^2 - 4*A*Ac*k0s^2*k3bs*kp^2 + 32*k3bs^2*kp^2 + 
+        24*k3bs*kp^4 + 10*k3bs^2*kp^4 + 6*kp^6 + 3*k3bs*kp^6 + 
+        4*ep^2*k0s^2*k3bs*(10*k3bs + 3*kp^2) + 4*b^2*k0s^3*
+         (16*bc^2*k0s - 3*Ac*kp^2) + 64*k0s*k3bs^2*y + 48*k0s*k3bs*kp^2*y + 
+        24*k0s*k3bs^2*kp^2*y + 12*k0s*kp^4*y + 8*k0s*k3bs*kp^4*y + 
+        8*k0s^2*k3bs^2*y^2 + 4*k0s^2*k3bs*kp^2*y^2 - 
+        16*b*bc*k0s^2*(k3bs*(-6 + 6*ep*k0s - 3*kp^2 - 4*k0s*y) - 
+          kp^2*(3 - ep*k0s + kp^2 + k0s*y)) - 
+        4*ep*k0s*(3*kp^4 + k3bs*kp^2*(12 + 3*kp^2 + 4*k0s*y) + 
+          2*k3bs^2*(8 + 5*kp^2 + 6*k0s*y))))))/(2*k3bs^3) + 
+ (-4*a^2*ac*k0s^4*(-2*Ac*b*k0s*(4*b*bc*k0s^2 + 
+       k3bs*(2 - 2*ep*k0s + kp^2 + 2*k0s*y)) + (2*ep*k0s - kp^2 - 2*k0s*y)*
+      (4*ac*b*bc*k0s^2 - 2*bc*kp^2 + ac*k3bs*(2 - 2*ep*k0s + kp^2 + 
+         2*k0s*y))) + a*k0s^2*
+    (8*ac^2*k0s^2*(-(b*kp^2*(-2*ep*k0s + kp^2 + 2*k0s*y)) + 
+       A*bc*k0s*(4*b*bc*k0s^2 + k3bs*(2 - 2*ep*k0s + kp^2 + 2*k0s*y))) - 
+     4*k3bs*(bc*kp^2*(2*ep^2*k0s^2 + kp^4 - ep*k0s*(2 + 3*kp^2) - 
+         2*k0s*y*(-1 + k0s*y) + kp^2*(1 + k0s*y)) + 
+       2*Ac*b*k0s*(b*bc*k0s^2*(-2 + 2*ep*k0s - kp^2 + 2*k0s*y) + 
+         k3bs*(-1 - ep^2*k0s^2 - kp^2 + ep*k0s*(2 + kp^2) + k0s^2*y^2))) + 
+     ac*(-8*A*Ac*k0s^2*k3bs^2 - 16*ep^3*k0s^3*k3bs^2 - 16*A*bc^2*k0s^3*kp^2 - 
+       4*A*Ac*k0s^2*k3bs*kp^2 + 20*k3bs^2*kp^2 - 4*A*Ac*k0s^2*k3bs^2*kp^2 + 
+       16*k3bs*kp^4 + 14*k3bs^2*kp^4 + 4*kp^6 + 5*k3bs*kp^6 + k3bs^2*kp^6 + 
+       40*k0s*k3bs^2*y - 8*A*Ac*k0s^3*k3bs^2*y + 32*k0s*k3bs*kp^2*y + 
+       40*k0s*k3bs^2*kp^2*y + 8*k0s*kp^4*y + 16*k0s*k3bs*kp^4*y + 
+       2*k0s*k3bs^2*kp^4*y + 24*k0s^2*k3bs^2*y^2 + 12*k0s^2*k3bs*kp^2*y^2 - 
+       8*k0s^2*k3bs^2*kp^2*y^2 - 16*k0s^3*k3bs^2*y^3 - 
+       16*b^2*k0s^3*(Ac*kp^2 + bc^2*k0s*(-8 + 2*ep*k0s - kp^2 + 2*k0s*y)) + 
+       4*ep^2*k0s^2*k3bs*(5*kp^2 + 2*k3bs*(7 + 3*kp^2 + 2*k0s*y)) + 
+       4*b*bc*k0s^2*(4*kp^2*(2 - 2*ep*k0s + kp^2 + 2*k0s*y) + 
+         k3bs*(16 - 4*A*Ac*k0s^2 + 12*ep^2*k0s^2 + 20*kp^2 + 3*kp^4 - 
+           4*ep*k0s*(10 + 3*kp^2) + 32*k0s*y - 12*k0s^2*y^2)) + 
+       2*ep*k0s*(-4*kp^4 - 2*k3bs*kp^2*(8 + 5*kp^2 + 8*k0s*y) + 
+         k3bs^2*(-20 + 4*A*Ac*k0s^2 - 5*kp^4 - 40*k0s*y + 8*k0s^2*y^2 - 
+           4*kp^2*(7 + 2*k0s*y))))) + 
+   k3bs*(4*A*k0s^2*(2*bc^2*k0s*kp^2*(-1 + ep*k0s - kp^2 + k0s*y) + 
+       2*ac*bc*k0s*k3bs*(1 + ep^2*k0s^2 + kp^2 - ep*k0s*(2 + kp^2) - 
+         k0s^2*y^2) - Ac*k3bs*(kp^2*(1 - ep*k0s + kp^2) + 
+         k3bs*(1 + ep^2*k0s^2 + kp^2 - ep*k0s*(2 + kp^2) - k0s^2*y^2))) + 
+     4*b^2*k0s^3*(2*Ac*kp^2*(-1 + ep*k0s - kp^2 + k0s*y) + 
+       bc^2*k0s*(4*ep^2*k0s^2 + kp^4 + kp^2*(10 - 4*k0s*y) + 
+         4*ep*k0s*(-5 - kp^2 + 2*k0s*y) + 4*(4 - 5*k0s*y + k0s^2*y^2))) + 
+     (2*ep*k0s - kp^2 - 2*k0s*y)*(-4*kp^4*(1 - ep*k0s + kp^2) - 
+       k3bs*kp^2*(6*ep^2*k0s^2 + kp^4 + kp^2*(13 - 2*k0s*y) + 
+         ep*k0s*(-18 - 7*kp^2 + 2*k0s*y) - 2*(-6 + k0s*y + 2*k0s^2*y^2)) + 
+       k3bs^2*(-8 + 2*ep^3*k0s^3 - kp^4 + 2*k0s*y + 8*k0s^2*y^2 - 
+         2*k0s^3*y^3 + ep^2*k0s^2*(-12 - 3*kp^2 + 2*k0s*y) + 
+         kp^2*(-9 + 2*k0s*y + k0s^2*y^2) + 
+         ep*k0s*(kp^4 - 2*kp^2*(-6 + k0s*y) - 2*(-9 + 2*k0s*y + 
+             k0s^2*y^2)))) + b*k0s^2*
+      (-4*ac*kp^2*(2*ep^2*k0s^2 + kp^4 - ep*k0s*(2 + 3*kp^2) - 
+         2*k0s*y*(-1 + k0s*y) + kp^2*(1 + k0s*y)) - 
+       4*A*bc*k0s^2*(2*ac*bc*k0s*(-2 + 2*ep*k0s - kp^2 + 2*k0s*y) + 
+         Ac*(kp^2 + k3bs*(2 - 2*ep*k0s + kp^2 - 2*k0s*y))) + 
+       bc*(kp^2*(20*ep^2*k0s^2 + 24*kp^2 + kp^4 - 4*ep*k0s*(12 + 5*kp^2) + 
+           4*(4 + 4*k0s*y - 5*k0s^2*y^2)) + k3bs*(-16*ep^3*k0s^3 + kp^6 + 
+           8*ep^2*k0s^2*(11 + 3*kp^2 - 2*k0s*y) - 2*kp^4*(-7 + k0s*y) + 
+           kp^2*(52 - 8*k0s*y - 8*k0s^2*y^2) + 8*(4 + 3*k0s*y - 9*k0s^2*y^2 + 
+             2*k0s^3*y^3) + 2*ep*k0s*(-52 - 5*kp^4 + 8*k0s*y + 8*k0s^2*y^2 + 
+             kp^2*(-44 + 8*k0s*y)))))))/(4*k3bs^3)
